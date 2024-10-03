@@ -1,4 +1,4 @@
-public class Main {
+public class ClientRemote {
     public static void main(String[] args) {
         Device d=new Tv();
         AdvanceRemote a=new AdvanceRemote(d);
