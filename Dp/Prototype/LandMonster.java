@@ -1,3 +1,5 @@
+package Prototype;
+
 
 public class LandMonster implements Monster {
     public void display(){

@@ -1,3 +1,5 @@
+package ChainOfRes;
+
 public abstract class EmailHandler {
     EmailHandler e;
     void setSuccessor(EmailHandler e){

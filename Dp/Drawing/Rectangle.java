@@ -1,3 +1,5 @@
+package Drawing;
+
 public class Rectangle implements Shapes {
     private int l,b;
     public Rectangle(int l,int b){

@@ -1,3 +1,5 @@
+package Bridge.Remote;
+
 public class Radio implements Device{
     boolean isEnabled=false;
     int vol=0;

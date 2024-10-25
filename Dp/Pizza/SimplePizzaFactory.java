@@ -1,3 +1,5 @@
+package Pizza;
+
 public class SimplePizzaFactory {
     Pizza pizza=null;
     public Pizza createPizza(String type){

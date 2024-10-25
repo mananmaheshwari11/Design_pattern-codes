@@ -1,3 +1,5 @@
+package Prototype;
+
 
 public class WaterMonster implements Monster {
     public void display(){

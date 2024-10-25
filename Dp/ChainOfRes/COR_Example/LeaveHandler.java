@@ -1,4 +1,4 @@
-package COR_Example;
+package ChainOfRes.COR_Example;
 
 public abstract class LeaveHandler {
     LeaveHandler l;

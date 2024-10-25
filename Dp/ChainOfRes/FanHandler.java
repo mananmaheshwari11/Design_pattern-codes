@@ -1,3 +1,5 @@
+package ChainOfRes;
+
 public class FanHandler extends EmailHandler {
 
     @Override

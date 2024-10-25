@@ -1,3 +1,5 @@
+package Drawing;
+
 public class Triangle implements Shapes{
     private int side;
     public Triangle(int side){

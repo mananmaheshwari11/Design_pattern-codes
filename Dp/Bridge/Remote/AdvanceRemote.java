@@ -1,3 +1,5 @@
+package Bridge.Remote;
+
 public class AdvanceRemote implements Remote {
     Device d;
     public AdvanceRemote(Device d){

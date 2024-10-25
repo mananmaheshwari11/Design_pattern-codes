@@ -1,3 +1,5 @@
+package Drawing;
+
 import java.util.HashMap;
 
 public class ShapeRegistry {

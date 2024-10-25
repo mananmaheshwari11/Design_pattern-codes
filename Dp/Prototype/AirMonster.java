@@ -1,3 +1,5 @@
+package Prototype;
+
 
 public class AirMonster implements Monster {
    

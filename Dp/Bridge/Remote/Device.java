@@ -1,3 +1,5 @@
+package Bridge.Remote;
+
 public interface Device{
     public boolean isEnabled();
     public void enabled();

@@ -1,3 +1,5 @@
+package ChainOfRes;
+
 public class ComplaintHandler extends EmailHandler {
 
     @Override

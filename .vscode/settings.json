@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "Dp"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\LENOVO\\OneDrive\\Backups\\Dp\\Design_pattern-codes\\Dp\\AamProject\\libs\\jackson-annotations-2.15.0.jar",
+        "c:\\Users\\LENOVO\\OneDrive\\Backups\\Dp\\Design_pattern-codes\\Dp\\AamProject\\libs\\jackson-core-2.15.0.jar",
+        "c:\\Users\\LENOVO\\OneDrive\\Backups\\Dp\\Design_pattern-codes\\Dp\\AamProject\\libs\\jackson-databind-2.15.0.jar"
+    ]
+}

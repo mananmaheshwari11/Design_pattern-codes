@@ -1,3 +1,5 @@
+package Bridge.Remote;
+
 public class ClientRemote {
     public static void main(String[] args) {
         Device d=new Tv();

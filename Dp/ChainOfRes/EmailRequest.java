@@ -1,3 +1,5 @@
+package ChainOfRes;
+
 class EmailRequest{
     public String type;
     public String subject;

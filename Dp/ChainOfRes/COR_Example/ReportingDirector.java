@@ -1,4 +1,4 @@
-package COR_Example;
+package ChainOfRes.COR_Example;
 
 public class ReportingDirector extends LeaveHandler{
     @Override

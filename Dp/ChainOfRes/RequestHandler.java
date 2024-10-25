@@ -1,3 +1,5 @@
+package ChainOfRes;
+
 public class RequestHandler extends EmailHandler {
 
     @Override

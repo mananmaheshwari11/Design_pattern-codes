@@ -1,3 +1,5 @@
+package Drawing;
+
 public interface Shapes extends Cloneable {
     
         public void display();

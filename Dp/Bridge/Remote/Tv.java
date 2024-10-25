@@ -1,3 +1,5 @@
+package Bridge.Remote;
+
 public class Tv implements Device {
     boolean isEnabled=false;
     int vol=0;

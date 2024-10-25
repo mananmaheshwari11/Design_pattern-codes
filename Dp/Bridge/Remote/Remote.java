@@ -1,3 +1,5 @@
+package Bridge.Remote;
+
 public interface Remote {
     public void togglePower();
     public void volumeDown();

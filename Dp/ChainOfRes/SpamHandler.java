@@ -1,3 +1,5 @@
+package ChainOfRes;
+
 public class SpamHandler extends EmailHandler {
 
     @Override
